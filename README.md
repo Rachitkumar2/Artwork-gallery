@@ -31,6 +31,6 @@ src/
 ```
 
 ## Live Demo
-[text](https://artwork-ga.netlify.app/)
+(https://artwork-ga.netlify.app/)
 
 
